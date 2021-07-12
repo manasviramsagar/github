@@ -1,1 +1,34 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="xgr6Gt5f$o/Ilnf[Nm.l" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="P#UI=#e-+:8T.?SqwHSc">mySprite</variable><variable type="KIND_SpriteKind" id="34l/bL|Eq)dK(;99vG2#">Player</variable><variable type="KIND_SpriteKind" id="U5C]qCpu24?4b#Z9:=ye">Projectile</variable><variable type="KIND_SpriteKind" id="e)Nni.$ZNX[cM]BzTfd_">Food</variable><variable type="KIND_SpriteKind" id="5Y%f6xG*v,,@oPw6pdF1">Enemy</variable></variables><block type="pxt-on-start" id="ZbHP=l#oC:H9_~80;Xdo" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="NBI,Q0#nb1F.@:[/`k-Y"><field name="VAR" id="P#UI=#e-+:8T.?SqwHSc">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="+s.hK.LY)6[:Bkb;qkRU"><value name="img"><shadow type="screen_image_picker" id="j{/aG(4lw)X:1zQa51NC"><field name="img">img`
+...........ccccc66666...........
+........ccc4444444444666........
+......cc444444444bb4444466......
+.....cb4444bb4444b5b444444b.....
+....eb4444b5b44444b44444444b....
+...ebb44444b4444444444b444446...
+..eb6bb444444444bb444b5b444446..
+..e6bb5b44444444b5b444b44bb44e..
+.e66b4b4444444444b4444444b5b44e.
+.e6bb444444444444444444444bb44e.
+eb66b44444bb444444444444444444be
+eb66bb444b5b44444444bb44444444be
+fb666b444bb444444444b5b4444444bf
+fcb666b44444444444444bb444444bcf
+.fbb6666b44444444444444444444bf.
+.efbb66666bb4444444444444444bfe.
+.86fcbb66666bbb44444444444bcc688
+8772effcbbbbbbbbbbbbbbbbcfc22778
+87722222cccccccccccccccc22226678
+f866622222222222222222222276686f
+fef866677766667777776667777fffef
+fbff877768f86777777666776fffffbf
+fbeffeefffeff7766688effeeeefeb6f
+f6bfffeffeeeeeeeeeeeeefeeeeebb6e
+f66ddfffffeeeffeffeeeeeffeedb46e
+.c66ddd4effffffeeeeeffff4ddb46e.
+.fc6b4dddddddddddddddddddb444ee.
+..ff6bb444444444444444444444ee..
+....ffbbbb4444444444444444ee....
+......ffebbbbbb44444444eee......
+.........fffffffcccccee.........
+................................
+`</field><data>{"commentRefs":[],"fieldData":{"img":"j{/aG(4lw)X:1zQa51NC"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="D*PST$9*)3)r;XITls7V"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
